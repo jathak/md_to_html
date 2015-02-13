@@ -1,0 +1,10 @@
+name: md_to_html
+author: Jack Thakar <jack@jackthakar.com>
+homepage: http://github.com/jathak/md_to_html
+version: 0.1.0
+description: Simple .md -> .html transformer
+
+dependencies:
+  barback: ">=0.15.2+4 <0.16.0"
+  markdown: ">=0.7.1+2 <0.8.0"
+  mustache_no_mirror: ">=0.1.8 <0.2.0"
