@@ -31,6 +31,7 @@ With a template:
     </html>
 
 Would render as:
+
     <html>
     <head><title>My Title</title></head>
     <body><h2>This is a header</h2>
